@@ -11,11 +11,12 @@ contents
     - pattern07：迭代器模式
     - pattern08：访问者模式
     - pattern09：中介者模式
-- pattern10：
-- pattern11：
-- pattern12：
-- pattern13：
-- pattern14：
-- pattern15：
-- pattern16：
-- pattern17：
+    - pattern10：备忘录模式
+    - pattern11：观察者模式
+    - pattern12：状态模式
+    - pattern13：策略模式
+    - pattern14：模板方法
+    - pattern15：解释器模式
+- 结构型模式
+    - pattern16：享元模式
+    - pattern17：
