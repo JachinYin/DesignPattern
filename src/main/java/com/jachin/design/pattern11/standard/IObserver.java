@@ -1,4 +1,4 @@
-package com.jachin.design.pattern11;
+package com.jachin.design.pattern11.standard;
 
 public interface IObserver {
     // 观察者只需要定义消息通知的方法

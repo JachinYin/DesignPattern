@@ -1,4 +1,4 @@
-package com.jachin.design.pattern11;
+package com.jachin.design.pattern11.standard;
 
 /**
  * @des:
